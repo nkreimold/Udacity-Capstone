@@ -54,4 +54,8 @@ would have to be done to truly validate it.
 
 ## Acknowledgements
 
-Thanks to Airbnb and Kaggle for the data in this analysis!
+Thanks to Udacity and Starbucks for the data in this analysis!
+
+A link to the medium article about this analysis is here: 
+https://nkreimold.medium.com/starbucks-what-is-the-optimal-offer-3f0f0a2df46
+
